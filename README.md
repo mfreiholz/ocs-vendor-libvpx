@@ -1,1 +1,2 @@
-# ocs-vendor-vpx
+Binary build for vendor libs.
+WebM - VPX
