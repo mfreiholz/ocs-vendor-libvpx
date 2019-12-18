@@ -1,0 +1,1 @@
+--target=x86_64-win64-vs16 --disable-examples --disable-tools --enable-vp8 --enable-vp9 --enable-realtime-only --enable-onthefly-bitpacking --enable-multi-res-encoding --enable-libyuv
